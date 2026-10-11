@@ -1,2 +1,3 @@
 raw/*.bin binary
 games.json text eol=lf
+README.md text eol=lf
