@@ -2857,6 +2857,210 @@
      "score": 12100
     }
    ]
+  },
+  {
+   "uuid": "261024-b53a7871-e115-448e-959f-7852b32d8b86",
+   "file": "raw/261024-b53a7871-e115-448e-959f-7852b32d8b86.bin",
+   "start_time": 1792843242,
+   "end_time": 1792846194,
+   "rounds": 13,
+   "accounts": [
+    {
+     "seat": 3,
+     "nickname": "秋ノ空蝉",
+     "account_id": 107766847
+    },
+    {
+     "seat": 0,
+     "nickname": "MOB3373",
+     "account_id": 107247623
+    },
+    {
+     "seat": 1,
+     "nickname": "こぱちそ",
+     "account_id": 101968776
+    },
+    {
+     "seat": 2,
+     "nickname": "くれそー",
+     "account_id": 103839641
+    }
+   ],
+   "result": [
+    {
+     "seat": 2,
+     "total_point": 69900,
+     "score": 49900
+    },
+    {
+     "seat": 0,
+     "total_point": 21200,
+     "score": 41200
+    },
+    {
+     "seat": 3,
+     "total_point": -21200,
+     "score": 18800
+    },
+    {
+     "seat": 1,
+     "total_point": -69900,
+     "score": -9900
+    }
+   ]
+  },
+  {
+   "uuid": "261024-9db6c162-0217-4096-9f2c-72162a2fe1dd",
+   "file": "raw/261024-9db6c162-0217-4096-9f2c-72162a2fe1dd.bin",
+   "start_time": 1792843245,
+   "end_time": 1792846010,
+   "rounds": 10,
+   "accounts": [
+    {
+     "seat": 0,
+     "nickname": "食用ピーナッツ",
+     "account_id": 101626084
+    },
+    {
+     "seat": 1,
+     "nickname": "セシリア@25",
+     "account_id": 104424966
+    },
+    {
+     "seat": 2,
+     "nickname": "ヒイラギでぇん",
+     "account_id": 73922971
+    },
+    {
+     "seat": 3,
+     "nickname": "ただのはやし",
+     "account_id": 103945598
+    }
+   ],
+   "result": [
+    {
+     "seat": 2,
+     "total_point": 54200,
+     "score": 34200
+    },
+    {
+     "seat": 1,
+     "total_point": 11900,
+     "score": 31900
+    },
+    {
+     "seat": 0,
+     "total_point": -10600,
+     "score": 29400
+    },
+    {
+     "seat": 3,
+     "total_point": -55500,
+     "score": 4500
+    }
+   ]
+  },
+  {
+   "uuid": "261024-deb534bd-4b6d-4aa5-9869-3beee852427e",
+   "file": "raw/261024-deb534bd-4b6d-4aa5-9869-3beee852427e.bin",
+   "start_time": 1792847057,
+   "end_time": 1792850537,
+   "rounds": 11,
+   "accounts": [
+    {
+     "seat": 2,
+     "nickname": "ジョンジョン9",
+     "account_id": 104388386
+    },
+    {
+     "seat": 1,
+     "nickname": "ゴマ油。",
+     "account_id": 106755000
+    },
+    {
+     "seat": 3,
+     "nickname": "39人ニキ",
+     "account_id": 106827767
+    },
+    {
+     "seat": 0,
+     "nickname": "偏屈な向日葵",
+     "account_id": 103626543
+    }
+   ],
+   "result": [
+    {
+     "seat": 1,
+     "total_point": 58600,
+     "score": 38600
+    },
+    {
+     "seat": 3,
+     "total_point": 17100,
+     "score": 37100
+    },
+    {
+     "seat": 2,
+     "total_point": -14300,
+     "score": 25700
+    },
+    {
+     "seat": 0,
+     "total_point": -61400,
+     "score": -1400
+    }
+   ]
+  },
+  {
+   "uuid": "261024-d76f9a3d-9d8d-42f0-ac6f-0d6dc304d51c",
+   "file": "raw/261024-d76f9a3d-9d8d-42f0-ac6f-0d6dc304d51c.bin",
+   "start_time": 1792847457,
+   "end_time": 1792849915,
+   "rounds": 13,
+   "accounts": [
+    {
+     "seat": 3,
+     "nickname": "人亜目",
+     "account_id": 106055370
+    },
+    {
+     "seat": 2,
+     "nickname": "Delth",
+     "account_id": 106120719
+    },
+    {
+     "seat": 0,
+     "nickname": "Kuromin",
+     "account_id": 101754672
+    },
+    {
+     "seat": 1,
+     "nickname": "くれそー",
+     "account_id": 103839641
+    }
+   ],
+   "result": [
+    {
+     "seat": 1,
+     "total_point": 66500,
+     "score": 46500
+    },
+    {
+     "seat": 2,
+     "total_point": 8200,
+     "score": 28200
+    },
+    {
+     "seat": 3,
+     "total_point": -19700,
+     "score": 20300
+    },
+    {
+     "seat": 0,
+     "total_point": -55000,
+     "score": 5000
+    }
+   ]
   }
  ]
 }
