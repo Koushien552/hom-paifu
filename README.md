@@ -3,9 +3,28 @@
 HOM リーグの牌譜置き場。雀魂から落ちてきたバイト列をそのまま置いてるだけ。
 
 - `raw/<uuid>.bin` … 1試合1ファイル。加工なし
+- `json/<uuid>.json` … 同じ牌譜を JSON にほどいたもの
 - `games.json` … 試合の一覧（誰がどの席か、点数、時刻）
 
 対戦日の夜中に勝手に増える。
+
+## json/
+
+読むだけならこっちが楽。一手が一行。
+
+```
+{"name": ".lq.GameDetailRecords", "version": 210715, "actions": [
+{"passed":1161,"type":3,"user_event":{"seat":2,"type":1}},
+...
+{"passed":...,"type":1,"result":{"name":".lq.RecordDiscardTile","data":{"seat":0,"tile":"9s",...}}},
+...
+]}
+```
+
+- `actions[].result` … 一手ぶんの記録。`name` が型、`data` が中身
+- `passed` … 対局が始まってからのミリ秒
+
+bin から作り直したものなので、bin に戻してもバイト単位では一致しない（中身は同じ）。届いたままの形がほしいときは `raw/` の方。
 
 ## 中身は protobuf
 
