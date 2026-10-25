@@ -5,6 +5,7 @@
   {
    "uuid": "260905-411d7b72-c74a-488a-98dd-0dc245285018",
    "file": "raw/260905-411d7b72-c74a-488a-98dd-0dc245285018.bin",
+   "json": "json/260905-411d7b72-c74a-488a-98dd-0dc245285018.json",
    "start_time": 1788609610,
    "end_time": 1788613025,
    "rounds": 11,
@@ -56,6 +57,7 @@
   {
    "uuid": "260905-a3edff4b-83b7-41fe-9ced-5de06cad8d1f",
    "file": "raw/260905-a3edff4b-83b7-41fe-9ced-5de06cad8d1f.bin",
+   "json": "json/260905-a3edff4b-83b7-41fe-9ced-5de06cad8d1f.json",
    "start_time": 1788609711,
    "end_time": 1788613556,
    "rounds": 14,
@@ -107,6 +109,7 @@
   {
    "uuid": "260905-a9783081-c6ee-4fb3-9dd3-ea3c97f9e9a8",
    "file": "raw/260905-a9783081-c6ee-4fb3-9dd3-ea3c97f9e9a8.bin",
+   "json": "json/260905-a9783081-c6ee-4fb3-9dd3-ea3c97f9e9a8.json",
    "start_time": 1788613811,
    "end_time": 1788616675,
    "rounds": 12,
@@ -158,6 +161,7 @@
   {
    "uuid": "260905-628863f0-1216-4b0e-90bb-0f1df129aedd",
    "file": "raw/260905-628863f0-1216-4b0e-90bb-0f1df129aedd.bin",
+   "json": "json/260905-628863f0-1216-4b0e-90bb-0f1df129aedd.json",
    "start_time": 1788614582,
    "end_time": 1788617113,
    "rounds": 12,
@@ -209,6 +213,7 @@
   {
    "uuid": "260906-5b8f1c06-ecb6-414f-a33e-df664a06d0ce",
    "file": "raw/260906-5b8f1c06-ecb6-414f-a33e-df664a06d0ce.bin",
+   "json": "json/260906-5b8f1c06-ecb6-414f-a33e-df664a06d0ce.json",
    "start_time": 1788696005,
    "end_time": 1788698878,
    "rounds": 11,
@@ -260,6 +265,7 @@
   {
    "uuid": "260906-eddf6193-dce8-4e8c-b804-e1a193fd3bb7",
    "file": "raw/260906-eddf6193-dce8-4e8c-b804-e1a193fd3bb7.bin",
+   "json": "json/260906-eddf6193-dce8-4e8c-b804-e1a193fd3bb7.json",
    "start_time": 1788696006,
    "end_time": 1788697993,
    "rounds": 10,
@@ -311,6 +317,7 @@
   {
    "uuid": "260906-84f447e5-4b7d-4cf0-bc20-84dfdd9f347e",
    "file": "raw/260906-84f447e5-4b7d-4cf0-bc20-84dfdd9f347e.bin",
+   "json": "json/260906-84f447e5-4b7d-4cf0-bc20-84dfdd9f347e.json",
    "start_time": 1788699608,
    "end_time": 1788702178,
    "rounds": 11,
@@ -362,6 +369,7 @@
   {
    "uuid": "260906-5aac2902-15b5-4552-86dd-c83b21fc2e1f",
    "file": "raw/260906-5aac2902-15b5-4552-86dd-c83b21fc2e1f.bin",
+   "json": "json/260906-5aac2902-15b5-4552-86dd-c83b21fc2e1f.json",
    "start_time": 1788699609,
    "end_time": 1788702240,
    "rounds": 10,
@@ -413,6 +421,7 @@
   {
    "uuid": "260912-6657d50c-1c47-4538-802d-7bc06bc334f1",
    "file": "raw/260912-6657d50c-1c47-4538-802d-7bc06bc334f1.bin",
+   "json": "json/260912-6657d50c-1c47-4538-802d-7bc06bc334f1.json",
    "start_time": 1789214426,
    "end_time": 1789218110,
    "rounds": 13,
@@ -464,6 +473,7 @@
   {
    "uuid": "260912-3ce9dd63-05e9-4ffe-97f7-35dccdf176fa",
    "file": "raw/260912-3ce9dd63-05e9-4ffe-97f7-35dccdf176fa.bin",
+   "json": "json/260912-3ce9dd63-05e9-4ffe-97f7-35dccdf176fa.json",
    "start_time": 1789214444,
    "end_time": 1789217565,
    "rounds": 11,
@@ -515,6 +525,7 @@
   {
    "uuid": "260912-a2cefd43-0d5d-4cda-9e09-bfdcc6fae5a1",
    "file": "raw/260912-a2cefd43-0d5d-4cda-9e09-bfdcc6fae5a1.bin",
+   "json": "json/260912-a2cefd43-0d5d-4cda-9e09-bfdcc6fae5a1.json",
    "start_time": 1789218338,
    "end_time": 1789222816,
    "rounds": 16,
@@ -566,6 +577,7 @@
   {
    "uuid": "260912-471ad8dd-0f28-46c2-9dad-4b537568030d",
    "file": "raw/260912-471ad8dd-0f28-46c2-9dad-4b537568030d.bin",
+   "json": "json/260912-471ad8dd-0f28-46c2-9dad-4b537568030d.json",
    "start_time": 1789219087,
    "end_time": 1789222583,
    "rounds": 12,
@@ -617,6 +629,7 @@
   {
    "uuid": "260913-bf24d263-2a15-402a-8ebc-064164519d70",
    "file": "raw/260913-bf24d263-2a15-402a-8ebc-064164519d70.bin",
+   "json": "json/260913-bf24d263-2a15-402a-8ebc-064164519d70.json",
    "start_time": 1789300891,
    "end_time": 1789302568,
    "rounds": 10,
@@ -668,6 +681,7 @@
   {
    "uuid": "260913-e203cfa0-e204-4ca2-859a-3d93d9b70344",
    "file": "raw/260913-e203cfa0-e204-4ca2-859a-3d93d9b70344.bin",
+   "json": "json/260913-e203cfa0-e204-4ca2-859a-3d93d9b70344.json",
    "start_time": 1789300903,
    "end_time": 1789303844,
    "rounds": 13,
@@ -719,6 +733,7 @@
   {
    "uuid": "260913-7f4bd5e1-2d1c-4ede-9b76-3f9a257d2081",
    "file": "raw/260913-7f4bd5e1-2d1c-4ede-9b76-3f9a257d2081.bin",
+   "json": "json/260913-7f4bd5e1-2d1c-4ede-9b76-3f9a257d2081.json",
    "start_time": 1789304885,
    "end_time": 1789308555,
    "rounds": 17,
@@ -770,6 +785,7 @@
   {
    "uuid": "260913-5e62be02-a808-4c78-9568-ee83b4ef290f",
    "file": "raw/260913-5e62be02-a808-4c78-9568-ee83b4ef290f.bin",
+   "json": "json/260913-5e62be02-a808-4c78-9568-ee83b4ef290f.json",
    "start_time": 1789304894,
    "end_time": 1789307048,
    "rounds": 10,
@@ -821,6 +837,7 @@
   {
    "uuid": "260919-c5dff20f-1bbe-4d68-bb52-81731e421b1f",
    "file": "raw/260919-c5dff20f-1bbe-4d68-bb52-81731e421b1f.bin",
+   "json": "json/260919-c5dff20f-1bbe-4d68-bb52-81731e421b1f.json",
    "start_time": 1789819295,
    "end_time": 1789823647,
    "rounds": 13,
@@ -872,6 +889,7 @@
   {
    "uuid": "260919-2fddbbd6-fe47-43d7-9e8c-2e46c633d574",
    "file": "raw/260919-2fddbbd6-fe47-43d7-9e8c-2e46c633d574.bin",
+   "json": "json/260919-2fddbbd6-fe47-43d7-9e8c-2e46c633d574.json",
    "start_time": 1789819378,
    "end_time": 1789821648,
    "rounds": 11,
@@ -923,6 +941,7 @@
   {
    "uuid": "260919-1f7d9bd7-efaa-4a0c-b43e-4ebbbec83cd8",
    "file": "raw/260919-1f7d9bd7-efaa-4a0c-b43e-4ebbbec83cd8.bin",
+   "json": "json/260919-1f7d9bd7-efaa-4a0c-b43e-4ebbbec83cd8.json",
    "start_time": 1789822893,
    "end_time": 1789825633,
    "rounds": 13,
@@ -974,6 +993,7 @@
   {
    "uuid": "260919-34bf6bf2-50f7-40fe-9efb-2111410cee60",
    "file": "raw/260919-34bf6bf2-50f7-40fe-9efb-2111410cee60.bin",
+   "json": "json/260919-34bf6bf2-50f7-40fe-9efb-2111410cee60.json",
    "start_time": 1789825006,
    "end_time": 1789828637,
    "rounds": 13,
@@ -1025,6 +1045,7 @@
   {
    "uuid": "260920-9ee14f55-3aa6-47fb-ae1e-645c0d7e9b94",
    "file": "raw/260920-9ee14f55-3aa6-47fb-ae1e-645c0d7e9b94.bin",
+   "json": "json/260920-9ee14f55-3aa6-47fb-ae1e-645c0d7e9b94.json",
    "start_time": 1789905752,
    "end_time": 1789906922,
    "rounds": 8,
@@ -1076,6 +1097,7 @@
   {
    "uuid": "260920-69b70d36-41cc-4256-abf8-9ed17f7cb4ab",
    "file": "raw/260920-69b70d36-41cc-4256-abf8-9ed17f7cb4ab.bin",
+   "json": "json/260920-69b70d36-41cc-4256-abf8-9ed17f7cb4ab.json",
    "start_time": 1789905939,
    "end_time": 1789909566,
    "rounds": 14,
@@ -1127,6 +1149,7 @@
   {
    "uuid": "260920-5abec2ac-9219-4600-bb31-8cbb404a0db7",
    "file": "raw/260920-5abec2ac-9219-4600-bb31-8cbb404a0db7.bin",
+   "json": "json/260920-5abec2ac-9219-4600-bb31-8cbb404a0db7.json",
    "start_time": 1789909550,
    "end_time": 1789911789,
    "rounds": 9,
@@ -1178,6 +1201,7 @@
   {
    "uuid": "260920-514fe8ae-3fc0-4eea-a38d-25f8d7a076f3",
    "file": "raw/260920-514fe8ae-3fc0-4eea-a38d-25f8d7a076f3.bin",
+   "json": "json/260920-514fe8ae-3fc0-4eea-a38d-25f8d7a076f3.json",
    "start_time": 1789910846,
    "end_time": 1789912862,
    "rounds": 10,
@@ -1229,6 +1253,7 @@
   {
    "uuid": "260926-e53d3d8a-db28-4f54-8aa1-5f5fd1318f0f",
    "file": "raw/260926-e53d3d8a-db28-4f54-8aa1-5f5fd1318f0f.bin",
+   "json": "json/260926-e53d3d8a-db28-4f54-8aa1-5f5fd1318f0f.json",
    "start_time": 1790424031,
    "end_time": 1790426710,
    "rounds": 13,
@@ -1280,6 +1305,7 @@
   {
    "uuid": "260926-c761bc69-3e02-4e2c-a39f-105889ed4427",
    "file": "raw/260926-c761bc69-3e02-4e2c-a39f-105889ed4427.bin",
+   "json": "json/260926-c761bc69-3e02-4e2c-a39f-105889ed4427.json",
    "start_time": 1790424065,
    "end_time": 1790426839,
    "rounds": 13,
@@ -1331,6 +1357,7 @@
   {
    "uuid": "260926-333a8947-f1c9-4ec2-b8da-54bc9b7a6f0a",
    "file": "raw/260926-333a8947-f1c9-4ec2-b8da-54bc9b7a6f0a.bin",
+   "json": "json/260926-333a8947-f1c9-4ec2-b8da-54bc9b7a6f0a.json",
    "start_time": 1790427670,
    "end_time": 1790430012,
    "rounds": 10,
@@ -1382,6 +1409,7 @@
   {
    "uuid": "260926-38c97922-bb0b-414b-b459-d1bb1810f9b6",
    "file": "raw/260926-38c97922-bb0b-414b-b459-d1bb1810f9b6.bin",
+   "json": "json/260926-38c97922-bb0b-414b-b459-d1bb1810f9b6.json",
    "start_time": 1790427761,
    "end_time": 1790430243,
    "rounds": 9,
@@ -1433,6 +1461,7 @@
   {
    "uuid": "260927-2a50adcc-cd40-4a4d-a23e-6b089a9f7e8c",
    "file": "raw/260927-2a50adcc-cd40-4a4d-a23e-6b089a9f7e8c.bin",
+   "json": "json/260927-2a50adcc-cd40-4a4d-a23e-6b089a9f7e8c.json",
    "start_time": 1790510514,
    "end_time": 1790513197,
    "rounds": 12,
@@ -1484,6 +1513,7 @@
   {
    "uuid": "260927-5de38969-f760-4a9f-b029-bcbecf911772",
    "file": "raw/260927-5de38969-f760-4a9f-b029-bcbecf911772.bin",
+   "json": "json/260927-5de38969-f760-4a9f-b029-bcbecf911772.json",
    "start_time": 1790510645,
    "end_time": 1790513620,
    "rounds": 11,
@@ -1535,6 +1565,7 @@
   {
    "uuid": "260927-b8ad13b1-78e6-4a70-b1a1-f7c6918b6c2d",
    "file": "raw/260927-b8ad13b1-78e6-4a70-b1a1-f7c6918b6c2d.bin",
+   "json": "json/260927-b8ad13b1-78e6-4a70-b1a1-f7c6918b6c2d.json",
    "start_time": 1790514609,
    "end_time": 1790516865,
    "rounds": 12,
@@ -1586,6 +1617,7 @@
   {
    "uuid": "260927-686576bd-2ef6-43bd-bef1-70808051f0be",
    "file": "raw/260927-686576bd-2ef6-43bd-bef1-70808051f0be.bin",
+   "json": "json/260927-686576bd-2ef6-43bd-bef1-70808051f0be.json",
    "start_time": 1790514629,
    "end_time": 1790517927,
    "rounds": 11,
@@ -1637,6 +1669,7 @@
   {
    "uuid": "261003-89af6069-80bb-434f-9373-e902460683c5",
    "file": "raw/261003-89af6069-80bb-434f-9373-e902460683c5.bin",
+   "json": "json/261003-89af6069-80bb-434f-9373-e902460683c5.json",
    "start_time": 1791028878,
    "end_time": 1791031656,
    "rounds": 13,
@@ -1688,6 +1721,7 @@
   {
    "uuid": "261003-93585b02-411e-4706-841e-b77043b3fd63",
    "file": "raw/261003-93585b02-411e-4706-841e-b77043b3fd63.bin",
+   "json": "json/261003-93585b02-411e-4706-841e-b77043b3fd63.json",
    "start_time": 1791028929,
    "end_time": 1791032700,
    "rounds": 16,
@@ -1739,6 +1773,7 @@
   {
    "uuid": "261003-b038dafc-050d-4f76-bcd9-2f5922b80afd",
    "file": "raw/261003-b038dafc-050d-4f76-bcd9-2f5922b80afd.bin",
+   "json": "json/261003-b038dafc-050d-4f76-bcd9-2f5922b80afd.json",
    "start_time": 1791032704,
    "end_time": 1791035140,
    "rounds": 13,
@@ -1790,6 +1825,7 @@
   {
    "uuid": "261003-8338d7f1-d3c0-425d-a0c2-f55656821589",
    "file": "raw/261003-8338d7f1-d3c0-425d-a0c2-f55656821589.bin",
+   "json": "json/261003-8338d7f1-d3c0-425d-a0c2-f55656821589.json",
    "start_time": 1791033688,
    "end_time": 1791036820,
    "rounds": 11,
@@ -1841,6 +1877,7 @@
   {
    "uuid": "261004-d67bc09b-1544-4d61-b458-c6e7bc6072cc",
    "file": "raw/261004-d67bc09b-1544-4d61-b458-c6e7bc6072cc.bin",
+   "json": "json/261004-d67bc09b-1544-4d61-b458-c6e7bc6072cc.json",
    "start_time": 1791115241,
    "end_time": 1791117506,
    "rounds": 8,
@@ -1892,6 +1929,7 @@
   {
    "uuid": "261004-7faeb8e8-3912-4eca-a5a7-ff46fef8a745",
    "file": "raw/261004-7faeb8e8-3912-4eca-a5a7-ff46fef8a745.bin",
+   "json": "json/261004-7faeb8e8-3912-4eca-a5a7-ff46fef8a745.json",
    "start_time": 1791115313,
    "end_time": 1791118113,
    "rounds": 11,
@@ -1943,6 +1981,7 @@
   {
    "uuid": "261004-7df356fb-18db-4d22-b219-0e75b203a87f",
    "file": "raw/261004-7df356fb-18db-4d22-b219-0e75b203a87f.bin",
+   "json": "json/261004-7df356fb-18db-4d22-b219-0e75b203a87f.json",
    "start_time": 1791119035,
    "end_time": 1791123206,
    "rounds": 18,
@@ -1994,6 +2033,7 @@
   {
    "uuid": "261004-d073124d-96dd-4c86-8f05-fa9e3cca088a",
    "file": "raw/261004-d073124d-96dd-4c86-8f05-fa9e3cca088a.bin",
+   "json": "json/261004-d073124d-96dd-4c86-8f05-fa9e3cca088a.json",
    "start_time": 1791119173,
    "end_time": 1791121272,
    "rounds": 13,
@@ -2045,6 +2085,7 @@
   {
    "uuid": "261010-2fc11b35-867b-4dbc-b525-190b5d9c30ef",
    "file": "raw/261010-2fc11b35-867b-4dbc-b525-190b5d9c30ef.bin",
+   "json": "json/261010-2fc11b35-867b-4dbc-b525-190b5d9c30ef.json",
    "start_time": 1791633626,
    "end_time": 1791636572,
    "rounds": 13,
@@ -2096,6 +2137,7 @@
   {
    "uuid": "261010-0d26f574-18cb-4963-b15b-fafb58b16bab",
    "file": "raw/261010-0d26f574-18cb-4963-b15b-fafb58b16bab.bin",
+   "json": "json/261010-0d26f574-18cb-4963-b15b-fafb58b16bab.json",
    "start_time": 1791633659,
    "end_time": 1791635721,
    "rounds": 9,
@@ -2147,6 +2189,7 @@
   {
    "uuid": "261010-45a70d5f-c93b-41f1-af22-0d2b4f96c6a2",
    "file": "raw/261010-45a70d5f-c93b-41f1-af22-0d2b4f96c6a2.bin",
+   "json": "json/261010-45a70d5f-c93b-41f1-af22-0d2b4f96c6a2.json",
    "start_time": 1791637221,
    "end_time": 1791639553,
    "rounds": 9,
@@ -2198,6 +2241,7 @@
   {
    "uuid": "261010-929dd06e-4696-40ec-8172-a1896555b983",
    "file": "raw/261010-929dd06e-4696-40ec-8172-a1896555b983.bin",
+   "json": "json/261010-929dd06e-4696-40ec-8172-a1896555b983.json",
    "start_time": 1791637557,
    "end_time": 1791639823,
    "rounds": 12,
@@ -2249,6 +2293,7 @@
   {
    "uuid": "261011-6b517a15-e9d8-489d-86a8-9fb6ae71e2f3",
    "file": "raw/261011-6b517a15-e9d8-489d-86a8-9fb6ae71e2f3.bin",
+   "json": "json/261011-6b517a15-e9d8-489d-86a8-9fb6ae71e2f3.json",
    "start_time": 1791720017,
    "end_time": 1791722455,
    "rounds": 11,
@@ -2300,6 +2345,7 @@
   {
    "uuid": "261011-6c8e7d66-95ed-4030-a8d4-e75620d0ea3e",
    "file": "raw/261011-6c8e7d66-95ed-4030-a8d4-e75620d0ea3e.bin",
+   "json": "json/261011-6c8e7d66-95ed-4030-a8d4-e75620d0ea3e.json",
    "start_time": 1791720056,
    "end_time": 1791723195,
    "rounds": 11,
@@ -2351,6 +2397,7 @@
   {
    "uuid": "261011-e90e83ce-76bc-4190-9533-463df7d7c805",
    "file": "raw/261011-e90e83ce-76bc-4190-9533-463df7d7c805.bin",
+   "json": "json/261011-e90e83ce-76bc-4190-9533-463df7d7c805.json",
    "start_time": 1791723692,
    "end_time": 1791726190,
    "rounds": 10,
@@ -2402,6 +2449,7 @@
   {
    "uuid": "261011-bedd226c-79e0-44a4-8083-e755139668c7",
    "file": "raw/261011-bedd226c-79e0-44a4-8083-e755139668c7.bin",
+   "json": "json/261011-bedd226c-79e0-44a4-8083-e755139668c7.json",
    "start_time": 1791724306,
    "end_time": 1791726996,
    "rounds": 13,
@@ -2453,6 +2501,7 @@
   {
    "uuid": "261017-5a4bed08-be3b-4480-9928-ec05c1238c32",
    "file": "raw/261017-5a4bed08-be3b-4480-9928-ec05c1238c32.bin",
+   "json": "json/261017-5a4bed08-be3b-4480-9928-ec05c1238c32.json",
    "start_time": 1792238423,
    "end_time": 1792243401,
    "rounds": 19,
@@ -2504,6 +2553,7 @@
   {
    "uuid": "261017-7c8695a4-8159-4cb2-8b21-d28cc4ebc71f",
    "file": "raw/261017-7c8695a4-8159-4cb2-8b21-d28cc4ebc71f.bin",
+   "json": "json/261017-7c8695a4-8159-4cb2-8b21-d28cc4ebc71f.json",
    "start_time": 1792238426,
    "end_time": 1792241407,
    "rounds": 14,
@@ -2555,6 +2605,7 @@
   {
    "uuid": "261017-891b80a4-d34e-4e4d-b6af-8941c7a9581e",
    "file": "raw/261017-891b80a4-d34e-4e4d-b6af-8941c7a9581e.bin",
+   "json": "json/261017-891b80a4-d34e-4e4d-b6af-8941c7a9581e.json",
    "start_time": 1792242454,
    "end_time": 1792244859,
    "rounds": 11,
@@ -2606,6 +2657,7 @@
   {
    "uuid": "261017-e584e939-d53a-4c48-818b-27aa383eeacc",
    "file": "raw/261017-e584e939-d53a-4c48-818b-27aa383eeacc.bin",
+   "json": "json/261017-e584e939-d53a-4c48-818b-27aa383eeacc.json",
    "start_time": 1792244503,
    "end_time": 1792247103,
    "rounds": 11,
@@ -2657,6 +2709,7 @@
   {
    "uuid": "261018-f422ca25-fee7-4223-9af2-0669b26b915f",
    "file": "raw/261018-f422ca25-fee7-4223-9af2-0669b26b915f.bin",
+   "json": "json/261018-f422ca25-fee7-4223-9af2-0669b26b915f.json",
    "start_time": 1792324957,
    "end_time": 1792327508,
    "rounds": 10,
@@ -2708,6 +2761,7 @@
   {
    "uuid": "261018-378d6922-3efa-4afd-b29d-9b59d33a0ce7",
    "file": "raw/261018-378d6922-3efa-4afd-b29d-9b59d33a0ce7.bin",
+   "json": "json/261018-378d6922-3efa-4afd-b29d-9b59d33a0ce7.json",
    "start_time": 1792325155,
    "end_time": 1792327284,
    "rounds": 11,
@@ -2759,6 +2813,7 @@
   {
    "uuid": "261018-70f20780-7eca-459e-90a7-0d169c03fbb4",
    "file": "raw/261018-70f20780-7eca-459e-90a7-0d169c03fbb4.bin",
+   "json": "json/261018-70f20780-7eca-459e-90a7-0d169c03fbb4.json",
    "start_time": 1792328497,
    "end_time": 1792330308,
    "rounds": 10,
@@ -2810,6 +2865,7 @@
   {
    "uuid": "261018-32982d7c-8e89-49de-85e9-cd894fbfcdb4",
    "file": "raw/261018-32982d7c-8e89-49de-85e9-cd894fbfcdb4.bin",
+   "json": "json/261018-32982d7c-8e89-49de-85e9-cd894fbfcdb4.json",
    "start_time": 1792328733,
    "end_time": 1792330622,
    "rounds": 9,
@@ -2861,6 +2917,7 @@
   {
    "uuid": "261024-b53a7871-e115-448e-959f-7852b32d8b86",
    "file": "raw/261024-b53a7871-e115-448e-959f-7852b32d8b86.bin",
+   "json": "json/261024-b53a7871-e115-448e-959f-7852b32d8b86.json",
    "start_time": 1792843242,
    "end_time": 1792846194,
    "rounds": 13,
@@ -2912,6 +2969,7 @@
   {
    "uuid": "261024-9db6c162-0217-4096-9f2c-72162a2fe1dd",
    "file": "raw/261024-9db6c162-0217-4096-9f2c-72162a2fe1dd.bin",
+   "json": "json/261024-9db6c162-0217-4096-9f2c-72162a2fe1dd.json",
    "start_time": 1792843245,
    "end_time": 1792846010,
    "rounds": 10,
@@ -2963,6 +3021,7 @@
   {
    "uuid": "261024-deb534bd-4b6d-4aa5-9869-3beee852427e",
    "file": "raw/261024-deb534bd-4b6d-4aa5-9869-3beee852427e.bin",
+   "json": "json/261024-deb534bd-4b6d-4aa5-9869-3beee852427e.json",
    "start_time": 1792847057,
    "end_time": 1792850537,
    "rounds": 11,
@@ -3014,6 +3073,7 @@
   {
    "uuid": "261024-d76f9a3d-9d8d-42f0-ac6f-0d6dc304d51c",
    "file": "raw/261024-d76f9a3d-9d8d-42f0-ac6f-0d6dc304d51c.bin",
+   "json": "json/261024-d76f9a3d-9d8d-42f0-ac6f-0d6dc304d51c.json",
    "start_time": 1792847457,
    "end_time": 1792849915,
    "rounds": 13,
