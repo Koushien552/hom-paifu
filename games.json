@@ -3953,6 +3953,214 @@
      "score": -2200
     }
    ]
+  },
+  {
+   "uuid": "261108-ef053ece-95fe-41a2-b2ec-572e933fc399",
+   "file": "raw/261108-ef053ece-95fe-41a2-b2ec-572e933fc399.bin",
+   "json": "json/261108-ef053ece-95fe-41a2-b2ec-572e933fc399.json",
+   "start_time": 1794139439,
+   "end_time": 1794142315,
+   "rounds": 13,
+   "accounts": [
+    {
+     "seat": 2,
+     "nickname": "はるはる0321",
+     "account_id": 108756794
+    },
+    {
+     "seat": 0,
+     "nickname": "こぱちそ",
+     "account_id": 101968776
+    },
+    {
+     "seat": 3,
+     "nickname": "sanukii7",
+     "account_id": 104313698
+    },
+    {
+     "seat": 1,
+     "nickname": "とらとらっぴー",
+     "account_id": 72389926
+    }
+   ],
+   "result": [
+    {
+     "seat": 2,
+     "total_point": 60000,
+     "score": 40000
+    },
+    {
+     "seat": 3,
+     "total_point": 11300,
+     "score": 31300
+    },
+    {
+     "seat": 1,
+     "total_point": -22700,
+     "score": 17300
+    },
+    {
+     "seat": 0,
+     "total_point": -48600,
+     "score": 11400
+    }
+   ]
+  },
+  {
+   "uuid": "261108-23aacac4-85e2-4756-8337-4284681abef1",
+   "file": "raw/261108-23aacac4-85e2-4756-8337-4284681abef1.bin",
+   "json": "json/261108-23aacac4-85e2-4756-8337-4284681abef1.json",
+   "start_time": 1794139711,
+   "end_time": 1794142774,
+   "rounds": 11,
+   "accounts": [
+    {
+     "seat": 1,
+     "nickname": "ヒイラギでぇん",
+     "account_id": 73922971
+    },
+    {
+     "seat": 3,
+     "nickname": "nagiまろん",
+     "account_id": 106338683
+    },
+    {
+     "seat": 2,
+     "nickname": "a0tyan",
+     "account_id": 104839462
+    },
+    {
+     "seat": 0,
+     "nickname": "_ryz7",
+     "account_id": 92834858
+    }
+   ],
+   "result": [
+    {
+     "seat": 1,
+     "total_point": 56800,
+     "score": 36800
+    },
+    {
+     "seat": 0,
+     "total_point": 11800,
+     "score": 31800
+    },
+    {
+     "seat": 2,
+     "total_point": -19700,
+     "score": 20300
+    },
+    {
+     "seat": 3,
+     "total_point": -48900,
+     "score": 11100
+    }
+   ]
+  },
+  {
+   "uuid": "261108-e3fa529c-9731-4ba7-a3a5-57dd87e6bc18",
+   "file": "raw/261108-e3fa529c-9731-4ba7-a3a5-57dd87e6bc18.bin",
+   "json": "json/261108-e3fa529c-9731-4ba7-a3a5-57dd87e6bc18.json",
+   "start_time": 1794143266,
+   "end_time": 1794145508,
+   "rounds": 10,
+   "accounts": [
+    {
+     "seat": 2,
+     "nickname": "形式テンパイ",
+     "account_id": 104676578
+    },
+    {
+     "seat": 3,
+     "nickname": "とらとらっぴー",
+     "account_id": 72389926
+    },
+    {
+     "seat": 1,
+     "nickname": "櫟木T",
+     "account_id": 108077870
+    },
+    {
+     "seat": 0,
+     "nickname": "偏屈な向日葵",
+     "account_id": 103626543
+    }
+   ],
+   "result": [
+    {
+     "seat": 3,
+     "total_point": 56300,
+     "score": 36300
+    },
+    {
+     "seat": 0,
+     "total_point": 8100,
+     "score": 28100
+    },
+    {
+     "seat": 2,
+     "total_point": -18400,
+     "score": 21600
+    },
+    {
+     "seat": 1,
+     "total_point": -46000,
+     "score": 14000
+    }
+   ]
+  },
+  {
+   "uuid": "261108-996d6b05-aa63-471c-97d2-37b8e47903fc",
+   "file": "raw/261108-996d6b05-aa63-471c-97d2-37b8e47903fc.bin",
+   "json": "json/261108-996d6b05-aa63-471c-97d2-37b8e47903fc.json",
+   "start_time": 1794143718,
+   "end_time": 1794145758,
+   "rounds": 11,
+   "accounts": [
+    {
+     "seat": 0,
+     "nickname": "MOB3373",
+     "account_id": 107247623
+    },
+    {
+     "seat": 1,
+     "nickname": "爆炎の炎",
+     "account_id": 105601167
+    },
+    {
+     "seat": 3,
+     "nickname": "裏目ノプロ",
+     "account_id": 107807167
+    },
+    {
+     "seat": 2,
+     "nickname": "人亜目",
+     "account_id": 106055370
+    }
+   ],
+   "result": [
+    {
+     "seat": 2,
+     "total_point": 64000,
+     "score": 44000
+    },
+    {
+     "seat": 0,
+     "total_point": 10800,
+     "score": 30800
+    },
+    {
+     "seat": 3,
+     "total_point": -19700,
+     "score": 20300
+    },
+    {
+     "seat": 1,
+     "total_point": -55100,
+     "score": 4900
+    }
+   ]
   }
  ]
 }
