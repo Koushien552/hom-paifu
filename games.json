@@ -4369,6 +4369,214 @@
      "score": -12300
     }
    ]
+  },
+  {
+   "uuid": "261115-183b5d21-a946-42ef-b931-dcbaf4a963f2",
+   "file": "raw/261115-183b5d21-a946-42ef-b931-dcbaf4a963f2.bin",
+   "json": "json/261115-183b5d21-a946-42ef-b931-dcbaf4a963f2.json",
+   "start_time": 1794744038,
+   "end_time": 1794746913,
+   "rounds": 12,
+   "accounts": [
+    {
+     "seat": 2,
+     "nickname": "_ryz7",
+     "account_id": 92834858
+    },
+    {
+     "seat": 1,
+     "nickname": "Delth",
+     "account_id": 106120719
+    },
+    {
+     "seat": 3,
+     "nickname": "ジョンジョン9",
+     "account_id": 104388386
+    },
+    {
+     "seat": 0,
+     "nickname": "はるはる0321",
+     "account_id": 108756794
+    }
+   ],
+   "result": [
+    {
+     "seat": 3,
+     "total_point": 59300,
+     "score": 39300
+    },
+    {
+     "seat": 2,
+     "total_point": 11900,
+     "score": 31900
+    },
+    {
+     "seat": 0,
+     "total_point": -14200,
+     "score": 25800
+    },
+    {
+     "seat": 1,
+     "total_point": -57000,
+     "score": 3000
+    }
+   ]
+  },
+  {
+   "uuid": "261115-cb0cd4ba-c1c7-416a-8150-eb12b9ad2c2e",
+   "file": "raw/261115-cb0cd4ba-c1c7-416a-8150-eb12b9ad2c2e.bin",
+   "json": "json/261115-cb0cd4ba-c1c7-416a-8150-eb12b9ad2c2e.json",
+   "start_time": 1794744057,
+   "end_time": 1794747535,
+   "rounds": 15,
+   "accounts": [
+    {
+     "seat": 1,
+     "nickname": "@あかねん。",
+     "account_id": 104417022
+    },
+    {
+     "seat": 3,
+     "nickname": "偏屈な向日葵",
+     "account_id": 103626543
+    },
+    {
+     "seat": 2,
+     "nickname": "こぱちそ",
+     "account_id": 101968776
+    },
+    {
+     "seat": 0,
+     "nickname": "Waaaataa",
+     "account_id": 108900002
+    }
+   ],
+   "result": [
+    {
+     "seat": 1,
+     "total_point": 84900,
+     "score": 64900
+    },
+    {
+     "seat": 0,
+     "total_point": 12300,
+     "score": 32300
+    },
+    {
+     "seat": 2,
+     "total_point": -27800,
+     "score": 12200
+    },
+    {
+     "seat": 3,
+     "total_point": -69400,
+     "score": -9400
+    }
+   ]
+  },
+  {
+   "uuid": "261115-6010ed31-391c-4032-8ef1-4899b108a880",
+   "file": "raw/261115-6010ed31-391c-4032-8ef1-4899b108a880.bin",
+   "json": "json/261115-6010ed31-391c-4032-8ef1-4899b108a880.json",
+   "start_time": 1794748120,
+   "end_time": 1794750815,
+   "rounds": 10,
+   "accounts": [
+    {
+     "seat": 0,
+     "nickname": "_ryz7",
+     "account_id": 92834858
+    },
+    {
+     "seat": 1,
+     "nickname": "MOB3373",
+     "account_id": 107247623
+    },
+    {
+     "seat": 3,
+     "nickname": "ジョンジョン9",
+     "account_id": 104388386
+    },
+    {
+     "seat": 2,
+     "nickname": "はるはる0321",
+     "account_id": 108756794
+    }
+   ],
+   "result": [
+    {
+     "seat": 3,
+     "total_point": 58500,
+     "score": 38500
+    },
+    {
+     "seat": 2,
+     "total_point": 3500,
+     "score": 23500
+    },
+    {
+     "seat": 1,
+     "total_point": -19000,
+     "score": 21000
+    },
+    {
+     "seat": 0,
+     "total_point": -43000,
+     "score": 17000
+    }
+   ]
+  },
+  {
+   "uuid": "261115-1cfa3eab-b6b4-41ca-974d-0140f52b40bc",
+   "file": "raw/261115-1cfa3eab-b6b4-41ca-974d-0140f52b40bc.bin",
+   "json": "json/261115-1cfa3eab-b6b4-41ca-974d-0140f52b40bc.json",
+   "start_time": 1794748462,
+   "end_time": 1794751135,
+   "rounds": 11,
+   "accounts": [
+    {
+     "seat": 0,
+     "nickname": "ただのはやし",
+     "account_id": 103945598
+    },
+    {
+     "seat": 1,
+     "nickname": "形式テンパイ",
+     "account_id": 104676578
+    },
+    {
+     "seat": 2,
+     "nickname": "ゴマ油。",
+     "account_id": 106755000
+    },
+    {
+     "seat": 3,
+     "nickname": "くれそー",
+     "account_id": 103839641
+    }
+   ],
+   "result": [
+    {
+     "seat": 3,
+     "total_point": 57900,
+     "score": 37900
+    },
+    {
+     "seat": 2,
+     "total_point": 2700,
+     "score": 22700
+    },
+    {
+     "seat": 1,
+     "total_point": -19300,
+     "score": 20700
+    },
+    {
+     "seat": 0,
+     "total_point": -41300,
+     "score": 18700
+    }
+   ]
   }
  ]
 }
